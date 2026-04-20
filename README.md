@@ -3,10 +3,10 @@ An interactive data analysis project built using Power BI to explore credit card
 
 🚀 Project Objective
 To analyze credit card transaction data and identify key business insights related to:
-Revenue performance
-Customer demographics
-Spending behavior
-Financial trends
+1.Revenue performance
+2.Customer demographics
+3.Spending behavior
+4.Financial trends
 
 📈 Key Insights
 Total revenue exceeded 55M, with strong transaction volume
